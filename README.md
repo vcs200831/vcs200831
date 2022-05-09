@@ -35,8 +35,9 @@ I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w41Fvx4v-OM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://www.youtube.com/embed/w41Fvx4v-OM/0.jpg" 
+alt="![image](https://user-images.githubusercontent.com/13059783/167401568-9e1a2df8-e7c4-4584-b001-24c825b8c751.png)
+" width="240" height="180" border="10" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcs200831&show_icons=true&locale=en&layout=compact" alt="vcs200831" /></p>
 
