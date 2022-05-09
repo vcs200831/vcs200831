@@ -9,7 +9,7 @@ I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and a
 
 - 👨‍💻 All of my projects are available at [https://vcs200831.github.io/Chandrashekhar.github.io/](https://vcs200831.github.io/Chandrashekhar.github.io/)
 
-- 📝 I regularly write articles on [https://prgrammingcon/noisseur.blogspot.com](https://prgrammingcon/noisseur.blogspot.com)
+- 📝 I regularly write articles on [https://prgrammingconnoisseur.blogspot.com/](https://prgrammingconnoisseur.blogspot.com/)
 
 - 📫 How to reach me **raamachandra86@gmail.com**
 
