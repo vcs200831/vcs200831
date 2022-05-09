@@ -15,6 +15,11 @@ I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and a
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tOR9QelP2KohBi0UOmiAK9SSA1at99_R/view?usp=sharing](https://drive.google.com/file/d/1tOR9QelP2KohBi0UOmiAK9SSA1at99_R/view?usp=sharing)
 
+
+<div align="right">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@vcs200831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vcs200831" height="30" width="40" /></a>
