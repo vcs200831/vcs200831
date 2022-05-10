@@ -1,4 +1,4 @@
-![Software Engineer](https://media-exp1.licdn.com/dms/image/C4D16AQEcFLI12PHZHw/profile-displaybackgroundimage-shrink_400_800/0/1651589010207?e=1657756800&v=beta&t=p6Ps2qCmlsrBnM9ahY3nwXr3S5z8liFnTXE9NVPTLbA)
+![Software Engineer](https://media-exp1.licdn.com/dms/image/C4D16AQEcFLI12PHZHw/profile-displaybackgroundimage-shrink_200_800/0/1651589010207?e=1657756800&v=beta&t=p6Ps2qCmlsrBnM9ahY3nwXr3S5z8liFnTXE9NVPTLbA)
 
 ### Hi there 👋,
 I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and an adventurer. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
