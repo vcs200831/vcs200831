@@ -13,9 +13,6 @@ I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and a
 
 - 📫 How to reach me **raamachandra86@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tOR9QelP2KohBi0UOmiAK9SSA1at99_R/view?usp=sharing](https://drive.google.com/file/d/1tOR9QelP2KohBi0UOmiAK9SSA1at99_R/view?usp=sharing)
-
-
 <div align="right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
