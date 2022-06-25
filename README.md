@@ -11,8 +11,6 @@ I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and a
 
 - 📝 I regularly write articles on [https://prgrammingconnoisseur.blogspot.com/](https://prgrammingconnoisseur.blogspot.com/)
 
-- 📫 How to reach me **raamachandra86@gmail.com**
-
 <div align="right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
