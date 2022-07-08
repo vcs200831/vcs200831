@@ -7,8 +7,6 @@ I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and a
 
 - 🌱 I’m currently learning **Django,React,JavaScript and Flask**
 
-- 👨‍💻 All of my projects are available at [https://vcs200831.github.io/Chandrashekhar.github.io/](https://vcs200831.github.io/Chandrashekhar.github.io/)
-
 - 📝 I regularly write articles on [https://prgrammingconnoisseur.blogspot.com/](https://prgrammingconnoisseur.blogspot.com/)
 
 <div align="right">
