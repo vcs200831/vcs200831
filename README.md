@@ -16,7 +16,6 @@ I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@vcs200831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vcs200831" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/v-chandra-shekhar-4a233140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-chandra-shekhar-4a233140/" height="30" width="40" /></a>
 <a href="https://kaggle.com/vcshekhar2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vcshekhar2021" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raamachandra86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raamachandra86" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vcs200831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vcs200831" height="30" width="40" /></a>
