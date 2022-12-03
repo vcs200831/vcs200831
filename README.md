@@ -1,5 +1,6 @@
 # 👋 Hey There! I'm V Chandra Shekhar. #
-###  💻 Computer Programmer and Pythonist from India :india 💻 ###
+###  💻 Computer Programmer and Pythonist from India  💻 ###
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcs200831&label=Profile%20views&color=0e75b6&style=flat" alt="vcs200831" /> </p>
 - I graduated with a Bachelor degree in Computer Technology(Software). 👨🎓
@@ -14,6 +15,7 @@
 <div align="right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
