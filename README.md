@@ -3,13 +3,13 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcs200831&label=Profile%20views&color=0e75b6&style=flat" alt="vcs200831" /> </p>
 
-*    I graduated with a Bachelor degree in Computer Technology(Software). 👨🎓
+*    I earned a Bachelor's degree in Computer Technology at graduation. 👨🎓
 *    I am familiar with the C language family : C / C++ / C#
-*    I’m currently learning Python . 🐍
-*    I enjoy learning new things and purposefully working toward and achieving goals. 💪🏻💪🏻💪🏻
-*    I'm interested in growing,helping and I'm trying to be an excellent programmer! 😎
-*    I'm a passionate self-learner. 👨💻
-*    I’m looking to collaborate with other Programmer. 🌏 🤝
+*    I'm presently learning Python.  🐍
+*    I like discovering new things, setting objectives, and consciously working toward them. 💪🏻💪🏻💪🏻
+*    I'm eager to learn, contribute, and become a superior programmer. 😎
+*    I'm an enthusiastic self-learner. 👨💻
+*    I want to work together with other programmers.🌏 🤝
 *    I regularly write articles on [https://prgrammingconnoisseur.blogspot.com/] 📝
 
 <div align="right">
