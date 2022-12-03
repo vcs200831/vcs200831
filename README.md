@@ -28,8 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vcs200831&" alt="vcs200831" /></p>
 
-#### I love connecting with different people so if you want to know each other better, I'll be happy to meet you! 😊 ####
+#### I enjoy connecting with new people, so if you want to meet up so we can get to know one another better, I'd be delighted to do so! 😊 ####
 ![image](https://user-images.githubusercontent.com/13059783/205430441-d494388e-7834-4827-8cc0-c0d6ce1b65b8.png)
 
-💖 **Thanks for taking the time to read my profile. I wish health, happiness, wealth and success to all the people of the world.** 🙏 🌺
+💖 **Greetings, and thanks for reading my profile. To everyone in the world, I send my best wishes for good health, joy, fortune, and success.** 🙏 🌺
 
