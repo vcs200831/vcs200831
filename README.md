@@ -29,8 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vcs200831&" alt="vcs200831" /></p>
 
 #### I love connecting with different people so if you want to know each other better, I'll be happy to meet you! 😊 ####
-!(https://www.theguesthouseocala.com/wp-content/uploads/2019/10/hy6vg.jpeg)
-
+![image](https://user-images.githubusercontent.com/13059783/205430441-d494388e-7834-4827-8cc0-c0d6ce1b65b8.png)
 
 💖 **Thanks for taking the time to read my profile. I wish health, happiness, wealth and success to all the people of the world.** 🙏 🌺
 
