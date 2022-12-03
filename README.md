@@ -1,7 +1,5 @@
-![Software Engineer](https://github.com/vcs200831/vcs200831/blob/main/ezgif.com-gif-maker.gif)
-
 ###👋 Hey There I'm V Chandra Shekhar.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vcs200831&label=Profile%20views&color=0e75b6&style=flat" alt="vcs200831" /> </p>
 • I graduated with a Bachelor degree in Computer Technology(Software). 👨🎓
 • I am familiar with the C language family : C / C++ / C#
 • I’m currently learning Python . 🐍
