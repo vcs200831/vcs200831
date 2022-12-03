@@ -1,13 +1,15 @@
 ![Software Engineer](https://github.com/vcs200831/vcs200831/blob/main/ezgif.com-gif-maker.gif)
 
-### Hi there 👋,
-I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and an adventurer. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
+###👋 Hey There I'm V Chandra Shekhar.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vcs200831&label=Profile%20views&color=0e75b6&style=flat" alt="vcs200831" /> </p>
-
-- 🌱 I’m currently learning **Django,React,JavaScript and Flask**
-
-- 📝 I regularly write articles on [https://prgrammingconnoisseur.blogspot.com/](https://prgrammingconnoisseur.blogspot.com/)
+• I graduated with a Bachelor degree in Computer Technology(Software). 👨🎓
+• I am familiar with the C language family : C / C++ / C#
+• I’m currently learning Python . 🐍
+• I enjoy learning new things and purposefully working toward and achieving goals. 💪🏻💪🏻💪🏻
+• I'm interested in growing,helping and I'm trying to be an excellent programmer! 😎
+• I'm a passionate self-learner. 👨💻
+• I’m looking to collaborate with other Programmer. 🌏 🤝
+• I regularly write articles on [https://prgrammingconnoisseur.blogspot.com/](https://prgrammingconnoisseur.blogspot.com/) 📝
 
 <div align="right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -15,13 +17,7 @@ I'm V.Chandra Shekhar from India, a software engineer, a lifelong learner, and a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@vcs200831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vcs200831" height="30" width="40" /></a>
-<a href="https://kaggle.com/vcshekhar2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vcshekhar2021" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raamachandra86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raamachandra86" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vcs200831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vcs200831" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vcs200831/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vcs200831/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@v.sc20210528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@v.sc20210528" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vsc20210528/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vsc20210528/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
