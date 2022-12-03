@@ -2,14 +2,14 @@
 ###  💻 Computer Programmer and Pythonist from India  💻 ###
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcs200831&label=Profile%20views&color=0e75b6&style=flat" alt="vcs200831" /> </p>
-- * I graduated with a Bachelor degree in Computer Technology(Software). 👨🎓
-- * I am familiar with the C language family : C / C++ / C#
-- * I’m currently learning Python . 🐍
-- * I enjoy learning new things and purposefully working toward and achieving goals. 💪🏻💪🏻💪🏻
-- * I'm interested in growing,helping and I'm trying to be an excellent programmer! 😎
-- * I'm a passionate self-learner. 👨💻
-- * I’m looking to collaborate with other Programmer. 🌏 🤝
-- * I regularly write articles on [https://prgrammingconnoisseur.blogspot.com/] 📝
+* I graduated with a Bachelor degree in Computer Technology(Software). 👨🎓
+* I am familiar with the C language family : C / C++ / C#
+* I’m currently learning Python . 🐍
+* I enjoy learning new things and purposefully working toward and achieving goals. 💪🏻💪🏻💪🏻
+* I'm interested in growing,helping and I'm trying to be an excellent programmer! 😎
+* I'm a passionate self-learner. 👨💻
+* I’m looking to collaborate with other Programmer. 🌏 🤝
+* I regularly write articles on [https://prgrammingconnoisseur.blogspot.com/] 📝
 
 <div align="right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
