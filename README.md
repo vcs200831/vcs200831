@@ -1,13 +1,7 @@
 # 👋 Hey There! I'm V Chandra Shekhar. #
 ###  💻 Computer Programmer and Pythonist from India  💻 ###
 ---
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcs200831&label=Profile%20views&color=0e75b6&style=flat" alt="vcs200831" /> </p>
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-- ⚡ Fun fact: I use tabs over spaces  
-
 I graduated with a Bachelor degree in Computer Technology(Software). 👨🎓
 I am familiar with the C language family : C / C++ / C#
 I’m currently learning Python . 🐍
