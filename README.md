@@ -1,5 +1,5 @@
 # 👋 Hey There! I'm V Chandra Shekhar. #
-###  💻 Computer Programmer and Pythonist from India  💻 ###
+###  💻 Computer Programmer from India  💻 ###
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcs200831&label=Profile%20views&color=0e75b6&style=flat" alt="vcs200831" /> </p>
 
