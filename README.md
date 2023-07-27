@@ -11,7 +11,7 @@
 *    I'm an enthusiastic self-learner. 👨💻
 *    I want to work together with other programmers.🌏 🤝
 *    I regularly write articles on [https://prgrammingconnoisseur.blogspot.com/] 📝
-*    You can also find my LeetCode solutions and progress on [LeetCode]((https://leetcode.com/vcs2023/)) 💻
+*    You can also find my LeetCode solutions and progress on [LeetCode][(https://leetcode.com/vcs2023/)] 💻
 
 
 <div align="right">
