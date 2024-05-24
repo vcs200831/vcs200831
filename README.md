@@ -1,5 +1,5 @@
 # 👋 Hey There! I'm V Chandrashekhar. #
-###  💻 Computer Programmer from India  💻 ###
+###  💻 Software Engineer from India  💻 ###
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcs200831&label=Profile%20views&color=0e75b6&style=flat" alt="vcs200831" /> </p>
 
