@@ -1,27 +1,28 @@
-# 👋 Hey There! I'm V Chandrashekhar. #
-###  💻 Software Engineer from India | Passionate about Writing Clean Code & Learning Every Day  💻 ###
+# 👋 Hey There! I'm V.Chandrashekhar #
+###  💻 Software Engineer | Backend Development (Python) 💻 ###
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcs200831&label=Profile%20views&color=0e75b6&style=flat" alt="vcs200831" /> </p>
 
 🚀 About Me
-*    I earned a Bachelor's degree in Computer Technology. 👨🎓
-*    I am skilled in the C language family : C, C++ and C#.
-*    Currently learning and building projects with Python.  🐍
-*    I love exploring new tech, setting goals, and growing step by step. 🧠
-*    I believe in continuous learning, persistence, and solving problems through code. 💪
-*    You'll often find me practicing coding challenges on [LeetCode][(https://leetcode.com/vcs2023/)].📘
-*    I enjoy connecting and collaborating with fellow developers from around the world.🤝
+Hi, I'm Chandrashekhar, a software engineer from India with a background in computer engineering. I'm currently focused on backend development, building APIs and backend systems using Python and FastAPI through hands-on projects.
+
+I started my programming journey with languages like C, C++ and C#, which helped me build strong fundamentals. Over time, I shifted my focus toward backend development and enjoy working on API design, backend logic, and deploying applications to real environments.
+
+I believe in learning by doing, improving step by step, and writing clean, understandable code. I regularly practice problem-solving and work on small to medium projects to strengthen my skills.
+
+You'll often find me practicing coding problems on LeetCode and experimenting with backend projects here on GitHub.
 
 🛠️ Tech Stack
-*    Languages: Python, Java, C, C++, C#
-*    Web: HTML, CSS
-*    Tools & Platforms: Git, GitHub, SQL, Excel
-*    Learning Focus: Backend development, efficient algorithms, and clean architecture
+*    Languages: Python, FastAPI
+*    Programming Foundations: C, C++, C#
+*    Web Basics: HTML, CSS
+*    Tools & Platforms: Git, GitHub, SQL
+*    Learning Focus: Backend development, REST APIs, clean architecture
 
 🌱 What I'm Working On
-*   Practicing data structures and algorithms through coding challenges
-*   Building real-world applications using Python and Java
-*   Exploring collaboration opportunities with like-minded developers
+*   Building backend APIs and small real-world applications
+*   Improving problem-solving and core programming skills
+*   Learning backed best practices through projects
 
 
 <div align="right">
