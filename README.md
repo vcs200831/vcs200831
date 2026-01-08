@@ -30,11 +30,6 @@ You'll often find me practicing coding problems on LeetCode and experimenting wi
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/vcs200831/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vcs200831/" height="30" width="40" /></a>
-</p>
-
 ![image](https://user-images.githubusercontent.com/13059783/205430441-d494388e-7834-4827-8cc0-c0d6ce1b65b8.png)
 
 💖 **Greetings, and thanks for reading my profile. To everyone in the world, I send my best wishes for good health, joy, fortune, and success.** 🙏 🌺
